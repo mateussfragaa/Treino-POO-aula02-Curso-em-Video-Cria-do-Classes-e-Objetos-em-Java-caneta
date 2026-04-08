@@ -66,7 +66,7 @@ Este projeto foi desenvolvido com fins educacionais para praticar conceitos bás
 Mateus Fraga
 
 ⭐ Possíveis melhorias
- Definir modelo da caneta no uso
- Adicionar controle de carga (tinta)
- Impedir rabiscar quando a carga estiver zerada
- Melhorar saída com formatação mais detalhada
+ - Definir modelo da caneta no uso
+ - Adicionar controle de carga (tinta)
+ - Impedir rabiscar quando a carga estiver zerada
+ - Melhorar saída com formatação mais detalhada
