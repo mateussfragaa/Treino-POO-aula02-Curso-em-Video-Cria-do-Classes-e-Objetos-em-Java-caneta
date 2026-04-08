@@ -45,14 +45,14 @@ c1.status();
 c1.rabiscar();
 ```
 
-🖥️ Saída esperada (exemplo)
+## 🖥️ Saída esperada (exemplo)
 
 A cor é Azul
 A ponta é 0.5
 Tampada true
 A caneta está tampada
 
-⚙️ Regras implementadas
+## ⚙️ Regras implementadas
 
 🖊️ Não é possível rabiscar com a caneta tampada
 🖊️ Ao destampar, a caneta pode escrever normalmente
@@ -61,11 +61,11 @@ A caneta está tampada
 
 Este projeto foi desenvolvido com fins educacionais para praticar conceitos básicos de Programação Orientada a Objetos em Java, especialmente encapsulamento e criação de métodos com lógica.
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Mateus Fraga
 
-⭐ Possíveis melhorias
+## ⭐ Possíveis melhorias
  - Definir modelo da caneta no uso
  - Adicionar controle de carga (tinta)
  - Impedir rabiscar quando a carga estiver zerada
